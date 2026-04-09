@@ -1,0 +1,52 @@
+body{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.732);
+
+}
+.button{
+    margin: 100px;
+    margin-right: 50px;
+
+}
+.buttons{
+    margin: 30px;
+}
+.liste{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    gap: 50px;
+    align-items: 0px;
+    list-style: none;
+
+}
+.logo{
+    padding: 5px;
+    margin: 100px;
+    display: flex;
+    gap: 90px;
+    justify-content: flex-end;
+}
+.image{
+
+
+}
+.corp{
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.732);
+}
+.entete2{
+    background-color: rgb(117, 117, 138);
+}
+.entete{
+    background-color: rgb(117, 117, 138);
+
+}
+.image2{
+    width: 0px;
+    height: 0px;
+}
+image{
+     width: 0px;
+    height: 0px
+}

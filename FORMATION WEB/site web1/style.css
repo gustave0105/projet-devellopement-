@@ -1,0 +1,14 @@
+body{
+    background-color: whitesmoke;
+    padding:0px;
+    margin: 100px;
+}
+.menu{
+    display: flex;
+    justify-content: end;
+    list-style: none;
+    gap: 30px;
+   
+    
+
+

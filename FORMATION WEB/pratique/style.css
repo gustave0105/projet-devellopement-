@@ -1,0 +1,12 @@
+.products{
+    display: flex;
+    gap: 10px;
+}
+
+.product{
+    background-color: red;
+}
+
+.green{
+    background-color: greenyellow;
+}
